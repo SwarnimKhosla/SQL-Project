@@ -19,6 +19,6 @@ In order to run the code your local machine, then you have to download the Jupyt
 
 ### Example Visualisation
 
-![Image not available]("/Latest Electricity Generation.png" "Example Graph")
+![Image not available](/"Latest Electricity Generation.png" "Example Graph")
 
 ***
