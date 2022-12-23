@@ -1,6 +1,6 @@
 # SQL-Project
 
-Major project which demonstrates experience with SQL.
+Analysis of different methods of electricity generation using MySQL.
 
 ***
 
